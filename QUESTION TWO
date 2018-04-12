@@ -1,0 +1,17 @@
+Mayanja emilio
+Reg num  17/U/546
+Student num 217000727
+
+
+Part 1  
+#include “do_it.h” 
+float do_it(char a , char  b, char c);
+
+
+Part 2
+Print_a_number.h
+Void   Print_a_number(int x);
+
+Part 3
+The print_msg()function is not supposed to take any arguments but the main function calls it with a string argument.
+The print_msg has been wrongly typed as print_msq.
